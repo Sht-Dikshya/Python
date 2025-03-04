@@ -1,0 +1,3 @@
+ERROR:root:Error: Division by zero is not allowed.
+ERROR:root:Error: Invalid input type. Please use numbers.
+ERROR:root:No data provided
